@@ -1,7 +1,6 @@
 import React from 'react';
 import { Navbar, Nav, Container, NavDropdown } from 'react-bootstrap'
 
-
 export const NavBar = () => {
   return (
     <>
